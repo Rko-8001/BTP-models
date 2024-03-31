@@ -1,0 +1,126 @@
+Analysis for Apple Crossing Time:  2  seconds
+Specs of Video =  FPS: 30, Width: 720, Height: 502
+objectDetected and predicted
+Total Time for a single Frame Detection and Prediction: 0.06 seconds
+objectDetected but not predicted
+
+
+Analysis for Apple Crossing Time:  3  seconds
+Specs of Video =  FPS: 30, Width: 720, Height: 404
+
+
+Analysis for Apple Crossing Time:  6  seconds
+Specs of Video =  FPS: 30, Width: 720, Height: 416
+objectDetected and predicted
+Total Time for a single Frame Detection and Prediction: 0.06 seconds
+objectDetected but not predicted
+objectDetected but not predicted
+
+
+
+
+
+
+##############################
+Analysis for Apple Crossing Time:  2  seconds
+Specs of Video =  FPS: 30, Width: 720, Height: 502
+objectDetected and predicted
+Total Time for a single Frame Detection and Prediction: 0.08 seconds
+objectDetected but not predicted
+Specs of Video =  FPS: 30, Width: 720, Height: 502
+objectDetected and predicted
+Total Time for a single Frame Detection and Prediction: 0.06 seconds
+objectDetected but not predicted
+Specs of Video =  FPS: 30, Width: 720, Height: 502
+objectDetected and predicted
+Total Time for a single Frame Detection and Prediction: 0.06 seconds
+objectDetected but not predicted
+Specs of Video =  FPS: 30, Width: 720, Height: 502
+objectDetected and predicted
+Total Time for a single Frame Detection and Prediction: 0.06 seconds
+objectDetected but not predicted
+Specs of Video =  FPS: 30, Width: 720, Height: 502
+objectDetected and predicted
+Total Time for a single Frame Detection and Prediction: 0.06 seconds
+objectDetected but not predicted
+Specs of Video =  FPS: 30, Width: 720, Height: 502
+objectDetected and predicted
+Total Time for a single Frame Detection and Prediction: 0.07 seconds
+objectDetected but not predicted
+Specs of Video =  FPS: 30, Width: 720, Height: 502
+objectDetected and predicted
+Total Time for a single Frame Detection and Prediction: 0.06 seconds
+objectDetected but not predicted
+Specs of Video =  FPS: 30, Width: 720, Height: 502
+objectDetected and predicted
+Total Time for a single Frame Detection and Prediction: 0.05 seconds
+objectDetected but not predicted
+Specs of Video =  FPS: 30, Width: 720, Height: 502
+objectDetected and predicted
+Total Time for a single Frame Detection and Prediction: 0.04 seconds
+objectDetected but not predicted
+Specs of Video =  FPS: 30, Width: 720, Height: 502
+objectDetected and predicted
+Total Time for a single Frame Detection and Prediction: 0.05 seconds
+objectDetected but not predicted
+
+Avg PredictionTime:  0.0577710942 secs
+
+
+
+
+
+############################################################################
+Analysis for Apple Crossing Time:  6  seconds
+Specs of Video =  FPS: 30, Width: 720, Height: 416
+objectDetected and predicted
+Total Time for a single Frame Detection and Prediction: 0.07 seconds
+objectDetected but not predicted
+objectDetected but not predicted
+Specs of Video =  FPS: 30, Width: 720, Height: 416
+objectDetected and predicted
+Total Time for a single Frame Detection and Prediction: 0.06 seconds
+objectDetected but not predicted
+objectDetected but not predicted
+Specs of Video =  FPS: 30, Width: 720, Height: 416
+objectDetected and predicted
+Total Time for a single Frame Detection and Prediction: 0.07 seconds
+objectDetected but not predicted
+objectDetected but not predicted
+Specs of Video =  FPS: 30, Width: 720, Height: 416
+objectDetected and predicted
+Total Time for a single Frame Detection and Prediction: 0.06 seconds
+objectDetected but not predicted
+objectDetected but not predicted
+Specs of Video =  FPS: 30, Width: 720, Height: 416
+objectDetected and predicted
+Total Time for a single Frame Detection and Prediction: 0.07 seconds
+objectDetected but not predicted
+objectDetected but not predicted
+Specs of Video =  FPS: 30, Width: 720, Height: 416
+objectDetected and predicted
+Total Time for a single Frame Detection and Prediction: 0.11 seconds
+objectDetected but not predicted
+objectDetected but not predicted
+Specs of Video =  FPS: 30, Width: 720, Height: 416
+objectDetected and predicted
+Total Time for a single Frame Detection and Prediction: 0.07 seconds
+objectDetected but not predicted
+objectDetected but not predicted
+Specs of Video =  FPS: 30, Width: 720, Height: 416
+objectDetected and predicted
+Total Time for a single Frame Detection and Prediction: 0.07 seconds
+objectDetected but not predicted
+objectDetected but not predicted
+Specs of Video =  FPS: 30, Width: 720, Height: 416
+objectDetected and predicted
+Total Time for a single Frame Detection and Prediction: 0.12 seconds
+objectDetected but not predicted
+objectDetected but not predicted
+Specs of Video =  FPS: 30, Width: 720, Height: 416
+objectDetected and predicted
+Total Time for a single Frame Detection and Prediction: 0.07 seconds
+objectDetected but not predicted
+objectDetected but not predicted
+
+Avg PredictionTime:  0.0777157813 secs
